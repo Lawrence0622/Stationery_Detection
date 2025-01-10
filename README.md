@@ -19,6 +19,8 @@
   ○  希望未來能結合機器人、大型語言模型和電腦視覺等技術，讓使用者透過指令或語音控制機械手臂，將文具用品歸位。
   ○  本報告的關鍵發現是，即使在資料集有限的情況下，透過選擇合適的模型和資料擴增技術，也能夠訓練出高準確率的物件偵測模型。
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Final Project for Design of Deep Learning Course: Stationery Classification. This project explored the possibility of using robotic arms to classify scattered stationery items to designated locations, creating a better office environment.
 Key points of the report:
 
